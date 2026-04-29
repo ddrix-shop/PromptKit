@@ -17,6 +17,6 @@ Future<void> main() async {
       systemNavigationBarIconBrightness: Brightness.light,
     ),
   );
-
-  runApp(const ProviderScope(child: CraftUiApp()));
+  
+  runApp(const ProviderScope(child: PromptKitApp()));
 }
