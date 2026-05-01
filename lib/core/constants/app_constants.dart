@@ -67,9 +67,9 @@ IconData iconForComponentType(String type) {
     case 'Product Card':
       return CupertinoIcons.cube_box_fill;
     case 'Footer':
-      return CupertinoIcons.rectangle_bottomthird_inset_filled;
+      return CupertinoIcons.rectangle_fill_on_rectangle_angled_fill;
     case 'Landing Page':
-      return CupertinoIcons.doc_richtext_fill;
+      return CupertinoIcons.doc_text_fill;
     case 'Dashboard Card':
       return CupertinoIcons.chart_bar_square_fill;
     case 'Contact Section':

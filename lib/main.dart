@@ -18,5 +18,5 @@ Future<void> main() async {
     ),
   );
   
-  runApp(const ProviderScope(child: PromptKitApp()));
+  runApp(const ProviderScope(child: CraftUiApp()));
 }
